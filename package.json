@@ -1,6 +1,6 @@
 {
   "name": "pi-handoff",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Pi extension: transfer context to a new focused session with a generated, editable prompt",
   "type": "module",
   "license": "MIT",
