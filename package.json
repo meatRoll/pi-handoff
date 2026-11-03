@@ -1,5 +1,5 @@
 {
-  "name": "@meatroll/pi-handoff",
+  "name": "pi-handoff",
   "version": "0.1.0",
   "description": "Pi extension: transfer context to a new focused session with a generated, editable prompt",
   "type": "module",
@@ -21,14 +21,6 @@
   "bugs": {
     "url": "https://github.com/meatRoll/pi-handoff/issues"
   },
-  "publishConfig": {
-    "access": "public"
-  },
-  "files": [
-    "src",
-    "README.md",
-    "LICENSE"
-  ],
   "pi": {
     "extensions": [
       "./src/index.ts"
