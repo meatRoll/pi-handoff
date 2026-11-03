@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+._*
+
+# Logs
+*.log
+
+# Editor settings
+.idea/
+.vscode/
+
+# Dependencies and generated output
+node_modules/
+dist/
+coverage/
